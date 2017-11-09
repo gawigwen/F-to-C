@@ -7,6 +7,12 @@ var e = 60
 var f = 80 
 var g = 100
 var h = 120
+var i = 0
+
+function convert (i ,b ,c){
+	return (i - a) / b
+}
+console.log((i - a) / b);
 
 function convert (a ,b ,c){
 	return (c - a) / b
